@@ -5,7 +5,7 @@ import { MdOutlineNavigateNext } from "react-icons/md";
 
 const Work = () => {
   return (
-    <div className='work'>
+    <div id="work" className='work'>
         <div className="work-title">
             <h1>My Latest Work</h1>
         </div>
